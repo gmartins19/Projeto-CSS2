@@ -1,4 +1,4 @@
-<h1>Projeto de Resposavidade :computer: :iphone: </h1>
+<h1>Projeto de Responsividade :computer: :iphone: </h1>
 <br>
 <h2>Foi um projeto que aprendi com Rodolfo Mori no <a href="https://rodolfomori.com.br/">DevClub</a></h2>.
 <br>
